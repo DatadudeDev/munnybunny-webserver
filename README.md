@@ -1,7 +1,9 @@
 # munnybunny-webserver
 A front end for MunnyBunny (An expense tracker) 
 
-https://datadude.dev/wp-content/uploads/2023/10/00002-2207509569.png
+![alt text](https://datadude.dev/wp-content/uploads/2023/10/00002-2207509569.png)
+
+
 
 Features:
 
