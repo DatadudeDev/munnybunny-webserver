@@ -29,7 +29,11 @@ docker build -t munnybunny-webserver:latest .
 
 When you've built the images for both the server and the webserver, you can use  
 the below docker compose template to spin up the containers in a stack (important  
-for networking) 
+for networking) using this command: 
+
+```
+docker compose up -d
+```
 
 Once done, navigate to your LAN IP:PORT (80 or whatever you picked) to access the web GUI.
 
