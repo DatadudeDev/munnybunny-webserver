@@ -7,11 +7,11 @@ A front end for MunnyBunny (An expense tracker)
 
 Features:
 
-@ List and Display expenses in a neat ASCII table
-@ Add new expenses, and remove existing ones
-@ Attach and download photos and documents to new and existing expenses inline
-@ Displays expenses with existing document attachments
-@ A simple API relays commands to the MunnyBunny-webServer
+@ List and Display expenses in a neat ASCII table  
+@ Add new expenses, and remove existing ones  
+@ Attach and download photos and documents to new and existing expenses inline  
+@ Displays expenses with existing document attachments  
+@ A simple API relays commands to the MunnyBunny-webServer  
 
 
 Docker Installation: 
