@@ -30,6 +30,10 @@ When you've built the images for both the server and the webserver, you can use
 the below docker compose template to spin up the containers in a stack (important  
 for networking) 
 
+Once done, navigate to your LAN IP:PORT (80 or whatever you picked) to access the web GUI.
+
+Enjoy!
+
 ```
 version: '2'
 services:
