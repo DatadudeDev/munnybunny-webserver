@@ -14,7 +14,8 @@ Features:
 @ A simple API relays commands to the MunnyBunny-webServer  
 
 
-Docker Installation: 
+
+# Docker Installation: 
 
 Docker Compose is the preferred method of installation.  
 My docker repo is private, but you can close the git repo and compile the image  
